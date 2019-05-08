@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document name="New Song" id="d110eeda0575462299a90857757d8a27" parent="99bb25178b791f260000000000000000"
+          startBeats="0" endBeats="198">
+  <transport name="transport" id="e80f7ebd73ea4b9bae358315efb51ee1" parent="d110eeda0575462299a90857757d8a27"
+             bpm="120" position="198" nextTake="14"/>
+  <clipRegistry name="clipRegistry" id="6a5ef024b21e4e78a5cb1f5fbf6af599" parent="d110eeda0575462299a90857757d8a27"/>
+  <array name="tracks" id="493edd0cb82f4681b9f48ff0b7c98d87" parent="d110eeda0575462299a90857757d8a27">
+    <track name="Metronome" id="f41e3eb6f22341918d2edb4c43f726ee" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="1" channel="61e125458553430abd5fd5c5bd8c6812" color="ffff651c"
+           enabled="1" solo="0" audition="0" hoverAudition="1" manualName="0"
+           processorState="89.VMjLg.E....OMkFYoQkbgM1ZPI2aiU1by8lbSQWXzUFHvziHv3hLy.yM1jiLyDSNwTCM2LSNybSN4HBHwziHwHBHxziHvHBHyziHvHBHzziHv3xM0HxK9..">
+      <sequence name="regions" id="13ba4e8041a5438facd8174bd5f2edaa" parent="f41e3eb6f22341918d2edb4c43f726ee"/>
+    </track>
+    <track name="Audio Track" id="8363fce7fa0b45d997484f4d8d7accd6" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="d21b4dba592049ad8c7ed8d5ddc790c0" color="ffd9d700"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="de5ab8c2044b4da38056538bf5655e88" parent="8363fce7fa0b45d997484f4d8d7accd6"/>
+    </track>
+<track name="Audio Track xyz" id="8363fce7fa0b45d997484f4d8d7accd7" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="d21b4dba592049ad8c7ed8d5ddc790c0" color="ffd9d700"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="de5ab8c2044b4da38056538bf5655e87" parent="8363fce7fa0b45d997484f4d8d7accd6"/>
+    </track>
+    <track name="Test Note" id="3d21a0f3f9e140f7b6ea062e31919ad1" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="1" channel="112d9701046d465aac3c490ba50316e7" color="ff3de600"
+           enabled="1" solo="0" audition="0" hoverAudition="1" manualName="0"
+           processorState="89.VMjLg.E....OMkFYoQkbgM1ZPI2aiU1by8lbSQWXzUFHvziHv3hLy.yM1jiLyDSNwTCM2LSNybSN4HBHwziHwHBHxziHvHBHyziHvHBHzziHv3xM0HxK9..">
+      <sequence name="regions" id="25cffa407fef488b85fdd39c61ea962d" parent="3d21a0f3f9e140f7b6ea062e31919ad1"/>
+    </track>
+    <track name="MIDI Track" id="c74e57e076d9456998b9b5c06300c91b" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="2" channel="d220bdaab74340ba840056dfaf4bda01" color="ff00ea52"
+           enabled="1" solo="0" audition="0" hoverAudition="1" manualName="0"
+           processorState="89.VMjLg.E....OMkFYoQkbgM1ZPI2aiU1by8lbSQWXzUFHvziHv3hLy.yM1jiLyDSNwTCM2LSNybSN4HBHwziHwHBHxziHvHBHyziHvHBHzziHv3xM0HxK9..">
+      <sequence name="regions" id="a7c3bae65c1c46f581590bfd4e02c493" parent="c74e57e076d9456998b9b5c06300c91b">
+        <loop name="Loop" id="229526adbce64e47be1acf6d1bacd7b5" parent="a7c3bae65c1c46f581590bfd4e02c493"
+              regionType="0" recordLoopName="" playOffset="0" playLooped="1"
+              locked="0" tempoAdjust="1" pitchChgSemis="0" retrigger="0">
+          <Doubleinterval begin="0" end="54"/>
+        </loop>
+        <loop name="Loop 1" id="883114d07dd84e0a80e9a256fee6fd12" parent="a7c3bae65c1c46f581590bfd4e02c493"
+              regionType="0" recordLoopName="" playOffset="0" playLooped="1"
+              locked="0" tempoAdjust="1" pitchChgSemis="0" retrigger="0">
+          <Doubleinterval begin="64" end="118"/>
+        </loop>
+        <loop name="Loop 2" id="6a25417e236840939d98b56fd64bd141" parent="a7c3bae65c1c46f581590bfd4e02c493"
+              regionType="0" recordLoopName="" playOffset="0" playLooped="1"
+              locked="0" tempoAdjust="1" pitchChgSemis="0" retrigger="0">
+          <Doubleinterval begin="144" end="198"/>
+        </loop>
+        <loop name="Loop xyz" id="6a25417e236840939d98b56fd64bd140" parent="a7c3bae65c1c46f581590bfd4e02c493"
+              regionType="0" recordLoopName="" playOffset="0" playLooped="1"
+              locked="0" tempoAdjust="1" pitchChgSemis="0" retrigger="0">
+          <Doubleinterval begin="200" end="210"/>
+        </loop>
+      </sequence>
+    </track>
+    <track name="Control Track" id="4d7927e3ed7443309ed590ab962b98a2" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="4" channel="e5c53e954f04421b91dc9ae515cc87b5" color="ff00e7e7"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="81.VMjLgfD....OAUGcu0VXzk1atQkbgM1ZPI2aiU1by8lbSQWXzUlO7XVZrQWYx8hO77RP0Q2asEFco8laTIWXisFTx81XkM2buI2TzEFck4C.">
+      <sequence name="regions" id="d5071bf69b3e46719e2dfb44272dfe77" parent="4d7927e3ed7443309ed590ab962b98a2">
+        <loop name="AutomRegion" id="5d8a9f5aee2a4b2f9638de02ede87688" parent="d5071bf69b3e46719e2dfb44272dfe77"
+              regionType="2" revertDestOnExit="1" triggerTime="0">
+          <Doubleinterval begin="0" end="34"/>
+          <destinations/>
+          <AutomationCurve>
+            <segment timeBegin="0" timeEnd="34" startValue="1" curvature="0.5" inflection="0"
+                     endValue="1"/>
+          </AutomationCurve>
+        </loop>
+        <loop name="AutomRegion 1" id="27c3e10f7dd34d06b2bcb5f82ee6c6ec" parent="d5071bf69b3e46719e2dfb44272dfe77"
+              regionType="2" revertDestOnExit="1" triggerTime="0">
+          <Doubleinterval begin="64" end="98"/>
+          <destinations/>
+          <AutomationCurve>
+            <segment timeBegin="0" timeEnd="34" startValue="1" curvature="0.5" inflection="0"
+                     endValue="1"/>
+          </AutomationCurve>
+        </loop>
+        <loop name="AutomRegion 2" id="53a9e6fdb65c4803b3701d61e645cf25" parent="d5071bf69b3e46719e2dfb44272dfe77"
+              regionType="2" revertDestOnExit="1" triggerTime="0">
+          <Doubleinterval begin="144" end="178"/>
+          <destinations/>
+          <AutomationCurve>
+            <segment timeBegin="0" timeEnd="34" startValue="1" curvature="0.5" inflection="0"
+                     endValue="1"/>
+          </AutomationCurve>
+        </loop>
+      </sequence>
+    </track>
+    <track name="Track" id="84e55fff1be2482e86f0dbb4f56605c5" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="0f9b377e5fba4710ade8b1c80a9605cb" color="ff597fff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="fa4ef994f0604f82a90754317a16fc76" parent="84e55fff1be2482e86f0dbb4f56605c5"/>
+    </track>
+    <track name="Track 3" id="77d66f440e7f42aca8831e48bed91b75" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="2ff9878f4c1c40f5a12d80ef1687eadf" color="ff5c7bff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="7367acb281c343f0866fe9a0c2a15c38" parent="77d66f440e7f42aca8831e48bed91b75"/>
+    </track>
+    <track name="Track 4" id="ff601c91ef62426f973083631eabdad0" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="f4a4b8242e7847ee85471a165323347b" color="ff5e77ff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="b85c9ebdb3b047bba53d779554f603fc" parent="ff601c91ef62426f973083631eabdad0"/>
+    </track>
+    <track name="Track 5" id="a364c97fd3184ce780ba1c91e4a821f6" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="7d876e35eac44c459f342b2c78b80429" color="ff6074ff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="15432d1fd6724fc6b573b10577c263eb" parent="a364c97fd3184ce780ba1c91e4a821f6"/>
+    </track>
+    <track name="Track 6" id="8914c6afc8df4b479346a2fec380bbf3" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="af3b1f9a8fa74705afe345241b68f605" color="ff6370ff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="f08d19820f4c4e57886b15c0ccf7d1ed" parent="8914c6afc8df4b479346a2fec380bbf3"/>
+    </track>
+    <track name="Track 7" id="8db1c39328dc49f7b438f169c3cafb01" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="1c2b6930bd324f3eb5d21aad00f710de" color="ff656dff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="4d237fcb1f63427dad7b9255ab04ba51" parent="8db1c39328dc49f7b438f169c3cafb01"/>
+    </track>
+    <track name="Track 8" id="47b56a300cea4baaa6ca59b798b5ba76" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="c6d6aaa2bf664ccca1919dba427c2777" color="ff676aff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="986b5d316b3d41478e583fce76698a5e" parent="47b56a300cea4baaa6ca59b798b5ba76"/>
+    </track>
+    <track name="Track 2" id="0a61dffe895748268841db65ec0e8001" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="f4000ba2f6aa41a6bcdef22f5f5f5885" color="ff5c7bff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="e5af13e7a412428084751265b529aa84" parent="0a61dffe895748268841db65ec0e8001"/>
+    </track>
+    <track name="Track 10" id="c5f7eafcda4e473289c0cfd5ee551cf1" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="4" channel="9543925079bc47d7a7a74d72dbaf861e" color="ffa249ff"
+           enabled="1" solo="1" audition="0" hoverAudition="0" manualName="0"
+           processorState="81.VMjLgfD....OAUGcu0VXzk1atQkbgM1ZPI2aiU1by8lbSQWXzUlO7XVZrQWYx8hO77RP0Q2asEFco8laTIWXisFTx81XkM2buI2TzEFck4C.">
+      <sequence name="regions" id="d0dbcfe311a24532ae461844c6901c11" parent="c5f7eafcda4e473289c0cfd5ee551cf1"/>
+    </track>
+    <track name="Track 9" id="b716056b2b934841993c3fbae417136b" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="0" channel="39381cd933724253b70b43d2f6a6c1a5" color="ff6b62ff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="36.VMjLgrA....OAUGYo8FUxE1XqAkbuMVYyM2axMEcgQWYu3C.">
+      <sequence name="regions" id="eb1716bf48b540ecab398acee3d1d172" parent="b716056b2b934841993c3fbae417136b"/>
+    </track>
+    <track name="Command Track" id="ededf27a47224e59a628e4d13a30aa0e" parent="493edd0cb82f4681b9f48ff0b7c98d87"
+           trackType="3" channel="2eb4b4d4ff0c4504933c873303b91fb4" color="fff833ff"
+           enabled="1" solo="0" audition="0" hoverAudition="0" manualName="0"
+           processorState="81.VMjLgfD....OAUGcu0VXzk1atQkbgM1ZPI2aiU1by8lbSQWXzUlO7XVZrQWYx8hO77RP0Q2asEFco8laTIWXisFTx81XkM2buI2TzEFck4C.">
+      <sequence name="regions" id="c43df5d18df74decbbcaa067f210c243" parent="ededf27a47224e59a628e4d13a30aa0e"/>
+    </track>
+  </array>
+  <mixer name="mixer" id="05bfb40ee29b4205af5903a24fe885cd" parent="d110eeda0575462299a90857757d8a27">
+    <array name="channels" id="74deeb8c57a943078eb31ceab658611f" parent="05bfb40ee29b4205af5903a24fe885cd">
+      <channel name="Metronome" id="61e125458553430abd5fd5c5bd8c6812" parent="74deeb8c57a943078eb31ceab658611f"
+               track="f41e3eb6f22341918d2edb4c43f726ee" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="75876daa91a643fd8f9a0c5064b7a4f0" parent="61e125458553430abd5fd5c5bd8c6812">
+          <terminalBay name="inputs" id="efc1858786cc44c089f3dcd88bcea82b" parent="75876daa91a643fd8f9a0c5064b7a4f0">
+            <terminal name="MIDI" id="ff02f3cdf04240b5bb11636beb859dfa" parent="efc1858786cc44c089f3dcd88bcea82b"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="e4142a4ba10b4da09477a05cf72351ad" parent="75876daa91a643fd8f9a0c5064b7a4f0">
+            <terminal name="MIDI" id="12cabb8529b14e82a21d5c2746f77842" parent="e4142a4ba10b4da09477a05cf72351ad"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="3c080b72f5b64a219b18f229cdfa2f3f" parent="61e125458553430abd5fd5c5bd8c6812">
+          <terminalBay name="inputs" id="4ae5c6af06e147ddbad8b1b74badd381" parent="3c080b72f5b64a219b18f229cdfa2f3f">
+            <terminal name="Main" id="deff141b7ba24718919546e78a890810" parent="4ae5c6af06e147ddbad8b1b74badd381"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="01d60329263f482cb2844a9047502ea8" parent="3c080b72f5b64a219b18f229cdfa2f3f">
+            <terminal name="Main" id="1eff3001ae8549ca9b73a7a4248e5917" parent="01d60329263f482cb2844a9047502ea8"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="2855c22237f341e19d4fde5539bff42d" parent="61e125458553430abd5fd5c5bd8c6812">
+          <insert name="Metronome" id="2c78d72f375e4cc0aa5bb5c51828b236" parent="2855c22237f341e19d4fde5539bff42d"
+                  inputs="0" outputs="2" fxState="0.">
+            <PLUGIN name="Metronome" format="ZAP" category="Instrument" manufacturer="zenAud.io"
+                    version="1.0" file="" uid="55974792" isInstrument="1" fileTime="0"
+                    infoUpdateTime="0" numInputs="0" numOutputs="2" isShell="0"/>
+          </insert>
+        </array>
+      </channel>
+      <channel name="Audio Track" id="d21b4dba592049ad8c7ed8d5ddc790c0" parent="74deeb8c57a943078eb31ceab658611f"
+               track="8363fce7fa0b45d997484f4d8d7accd6" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="3f091d23065f4fd2abac8b89ce3a2c2d" parent="d21b4dba592049ad8c7ed8d5ddc790c0">
+          <terminalBay name="inputs" id="833bfa3a8f48451cafaaa93c2435c658" parent="3f091d23065f4fd2abac8b89ce3a2c2d">
+            <terminal name="MIDI" id="45d5601721ad4c1d8a4fff21d7c07bdb" parent="833bfa3a8f48451cafaaa93c2435c658"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="3bbe79363fda4ea7ac93246b81f7d916" parent="3f091d23065f4fd2abac8b89ce3a2c2d">
+            <terminal name="MIDI" id="8e5cefdb94704b08b0e529519a3c3e77" parent="3bbe79363fda4ea7ac93246b81f7d916"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="b7a8768aef924a30a04f68a541c65ef9" parent="d21b4dba592049ad8c7ed8d5ddc790c0">
+          <terminalBay name="inputs" id="92ec1e7dd3794482ba75ab1255bdb681" parent="b7a8768aef924a30a04f68a541c65ef9">
+            <terminal name="Main" id="aacb764bc48148b496912a75a69fbad9" parent="92ec1e7dd3794482ba75ab1255bdb681"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="480b9517dedf4dc8a6d40ea3a6ef19b6" parent="b7a8768aef924a30a04f68a541c65ef9">
+            <terminal name="Main" id="b921d036f8b04df38954aa9fb83258c4" parent="480b9517dedf4dc8a6d40ea3a6ef19b6"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="ce48859c92d3412db76938d7d9f3a99d" parent="d21b4dba592049ad8c7ed8d5ddc790c0"/>
+      </channel>
+      <channel name="Test Note" id="112d9701046d465aac3c490ba50316e7" parent="74deeb8c57a943078eb31ceab658611f"
+               track="3d21a0f3f9e140f7b6ea062e31919ad1" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="8c090058690b4b37a4b85ba62b3f58e5" parent="112d9701046d465aac3c490ba50316e7">
+          <terminalBay name="inputs" id="d9f80ac0edae40ae85e0215f69b14f1b" parent="8c090058690b4b37a4b85ba62b3f58e5">
+            <terminal name="MIDI" id="d17698fbe9af46c2b8bedbe8c81ccd07" parent="d9f80ac0edae40ae85e0215f69b14f1b"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="cca140b0ace44704bbccf9b21beddedb" parent="8c090058690b4b37a4b85ba62b3f58e5">
+            <terminal name="MIDI" id="9aed3a2b182f44a99643a8e46b79c940" parent="cca140b0ace44704bbccf9b21beddedb"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="e9794dbd04e44f12ad99cd467eeb4750" parent="112d9701046d465aac3c490ba50316e7">
+          <terminalBay name="inputs" id="8aa21ad357684463b916246087ecda52" parent="e9794dbd04e44f12ad99cd467eeb4750">
+            <terminal name="Main" id="150a367e2c9d4ad08f518b44133c5a98" parent="8aa21ad357684463b916246087ecda52"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="5076af8f32464caf82882e1869254541" parent="e9794dbd04e44f12ad99cd467eeb4750">
+            <terminal name="Main" id="fa57c7a65bd84417831069d10f3ad2d5" parent="5076af8f32464caf82882e1869254541"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="39a6ab544a044368b11e0a7732c99e33" parent="112d9701046d465aac3c490ba50316e7">
+          <insert name="Test Note" id="897aff18933a4041ba6d2fa799928ae4" parent="39a6ab544a044368b11e0a7732c99e33"
+                  inputs="0" outputs="2" fxState="0.">
+            <PLUGIN name="Test Note" format="ZAP" category="Instrument" manufacturer="zenAud.io"
+                    version="1.0" file="" uid="2d91fac0" isInstrument="1" fileTime="0"
+                    infoUpdateTime="0" numInputs="0" numOutputs="2" isShell="0"/>
+          </insert>
+        </array>
+      </channel>
+      <channel name="MIDI Track" id="d220bdaab74340ba840056dfaf4bda01" parent="74deeb8c57a943078eb31ceab658611f"
+               track="c74e57e076d9456998b9b5c06300c91b" cableType="2" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="519088cd5c4449bb90f5bc4dca4f5c9e" parent="d220bdaab74340ba840056dfaf4bda01">
+          <terminalBay name="inputs" id="94d8c1a4a9224b03a9abdf4767273558" parent="519088cd5c4449bb90f5bc4dca4f5c9e">
+            <terminal name="MIDI" id="7df6f4169b674b0096540658513a2bc8" parent="94d8c1a4a9224b03a9abdf4767273558"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="14cce5e58cbf4e0c881f97a47d7d3fd9" parent="519088cd5c4449bb90f5bc4dca4f5c9e">
+            <terminal name="MIDI" id="4a82cc7b171148ea8c1ef8f43cc8ccd6" parent="14cce5e58cbf4e0c881f97a47d7d3fd9"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="600c1b75928148f49641e904028a593f" parent="d220bdaab74340ba840056dfaf4bda01">
+          <terminalBay name="inputs" id="792cf7807f1b4ceb91d734921c98e5ca" parent="600c1b75928148f49641e904028a593f">
+            <terminal name="Main" id="2c652e1603364399bb10561e0fb3821e" parent="792cf7807f1b4ceb91d734921c98e5ca"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="1827115c139b47a7bfb1c6debd364597" parent="600c1b75928148f49641e904028a593f">
+            <terminal name="Main" id="c226c1575ccc4efe9baea8cb3b47d92f" parent="1827115c139b47a7bfb1c6debd364597"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="973170baa96740f4931e06f9f7d951d3" parent="d220bdaab74340ba840056dfaf4bda01"/>
+      </channel>
+      <channel name="Control Track" id="e5c53e954f04421b91dc9ae515cc87b5" parent="74deeb8c57a943078eb31ceab658611f"
+               track="4d7927e3ed7443309ed590ab962b98a2" cableType="3" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="c2a184b4367944f2be1c3650905e83de" parent="e5c53e954f04421b91dc9ae515cc87b5">
+          <terminalBay name="inputs" id="0f7350dd4b7d4ebfba7bebc16bd57788" parent="c2a184b4367944f2be1c3650905e83de">
+            <terminal name="MIDI" id="27005c72eb144c1e8aebe6e4fd9320e3" parent="0f7350dd4b7d4ebfba7bebc16bd57788"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="bde4918d3d5b40398ab4984948ac6a1b" parent="c2a184b4367944f2be1c3650905e83de">
+            <terminal name="MIDI" id="6b03c7c1eb8f482ebef64e8bdc8c3c01" parent="bde4918d3d5b40398ab4984948ac6a1b"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="c62f08b6334649398379eb7a9c16f79a" parent="e5c53e954f04421b91dc9ae515cc87b5">
+          <terminalBay name="inputs" id="ccbb8d470fb8474dbcb577e1087f1365" parent="c62f08b6334649398379eb7a9c16f79a">
+            <terminal name="Main" id="00bb2c5a27ec4966a2e6a0021b1a7ce1" parent="ccbb8d470fb8474dbcb577e1087f1365"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="3b685507ac844e1b98b79a7fb91131db" parent="c62f08b6334649398379eb7a9c16f79a">
+            <terminal name="Main" id="501ba783ece0471baeea0e47fadc8256" parent="3b685507ac844e1b98b79a7fb91131db"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="d845886ea2744f7ea29065a5690b9d44" parent="e5c53e954f04421b91dc9ae515cc87b5"/>
+      </channel>
+      <channel name="Command Track" id="2eb4b4d4ff0c4504933c873303b91fb4" parent="74deeb8c57a943078eb31ceab658611f"
+               track="ededf27a47224e59a628e4d13a30aa0e" cableType="3" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="518b2ebd5f92469cb34f6bea9c7f3b58" parent="2eb4b4d4ff0c4504933c873303b91fb4">
+          <terminalBay name="inputs" id="1c4cd444776a4be49f5d74c10eea52c4" parent="518b2ebd5f92469cb34f6bea9c7f3b58">
+            <terminal name="MIDI" id="a4b224958e594e439f90151f95c6b6a4" parent="1c4cd444776a4be49f5d74c10eea52c4"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="8dc5734e11e74b5297840dc9270913e3" parent="518b2ebd5f92469cb34f6bea9c7f3b58">
+            <terminal name="MIDI" id="dfa3cfae973c47ccad84244039aacf40" parent="8dc5734e11e74b5297840dc9270913e3"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="e308dfb0b0a342f0887f3cedf66f101d" parent="2eb4b4d4ff0c4504933c873303b91fb4">
+          <terminalBay name="inputs" id="256be0f077ff4f66bfd0843a38741574" parent="e308dfb0b0a342f0887f3cedf66f101d">
+            <terminal name="Main" id="b14473868bd54b1391cfe45040ce8a6a" parent="256be0f077ff4f66bfd0843a38741574"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="c89fee5075d34d0aab9bc7e6e8848d2c" parent="e308dfb0b0a342f0887f3cedf66f101d">
+            <terminal name="Main" id="f976e8a0f1d54432b85cb570ea2bfed7" parent="c89fee5075d34d0aab9bc7e6e8848d2c"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="3cd04c7a3653477ca65216954f4ee584" parent="2eb4b4d4ff0c4504933c873303b91fb4"/>
+      </channel>
+      <channel name="Track" id="0f9b377e5fba4710ade8b1c80a9605cb" parent="74deeb8c57a943078eb31ceab658611f"
+               track="84e55fff1be2482e86f0dbb4f56605c5" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="bf7508d769f64d1a9a84774281211f94" parent="0f9b377e5fba4710ade8b1c80a9605cb">
+          <terminalBay name="inputs" id="02b945c1be474274bd4a313f0aff47a1" parent="bf7508d769f64d1a9a84774281211f94">
+            <terminal name="MIDI" id="9ba4abba30704d16a8ddc92e700cd502" parent="02b945c1be474274bd4a313f0aff47a1"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="603abe2d60124436bd965c3a830801f2" parent="bf7508d769f64d1a9a84774281211f94">
+            <terminal name="MIDI" id="46da11c098634149b2689d2ef0647a9b" parent="603abe2d60124436bd965c3a830801f2"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="fb82db281ac846c68ad0b4de397abee1" parent="0f9b377e5fba4710ade8b1c80a9605cb">
+          <terminalBay name="inputs" id="9a600eeaf8a44d99935098d72601c363" parent="fb82db281ac846c68ad0b4de397abee1">
+            <terminal name="Main" id="3dc6e986dcd143c38b360e4a536196e9" parent="9a600eeaf8a44d99935098d72601c363"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="4e3293f645ec409d933d16529a503a20" parent="fb82db281ac846c68ad0b4de397abee1">
+            <terminal name="Main" id="f1596e31a77542a48629d224b8899613" parent="4e3293f645ec409d933d16529a503a20"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="2794275f67704a85bfab06dd79779841" parent="0f9b377e5fba4710ade8b1c80a9605cb"/>
+      </channel>
+      <channel name="Track 2" id="f4000ba2f6aa41a6bcdef22f5f5f5885" parent="74deeb8c57a943078eb31ceab658611f"
+               track="0a61dffe895748268841db65ec0e8001" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="8787e76b69df4123963a3957978e6f80" parent="f4000ba2f6aa41a6bcdef22f5f5f5885">
+          <terminalBay name="inputs" id="814d04aae6904d5ca957484689777947" parent="8787e76b69df4123963a3957978e6f80">
+            <terminal name="MIDI" id="fd2921b638b54fa28f04620bdde833f9" parent="814d04aae6904d5ca957484689777947"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="ef8cc41bbec9422295fab55d9295d00c" parent="8787e76b69df4123963a3957978e6f80">
+            <terminal name="MIDI" id="1ec5b81d96a946f0b0ff1150671d1710" parent="ef8cc41bbec9422295fab55d9295d00c"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="bdeb06e3a3974688956b0d9456ce1862" parent="f4000ba2f6aa41a6bcdef22f5f5f5885">
+          <terminalBay name="inputs" id="9b1850750e794bfe85eb8e8951532c99" parent="bdeb06e3a3974688956b0d9456ce1862">
+            <terminal name="Main" id="94f6b7c6a59f42ae9519e17da6ad16a3" parent="9b1850750e794bfe85eb8e8951532c99"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="62e120551e734e0a9e738c72a0a8a2d9" parent="bdeb06e3a3974688956b0d9456ce1862">
+            <terminal name="Main" id="765a210f748d48ed85e6aee9b1b92327" parent="62e120551e734e0a9e738c72a0a8a2d9"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="077cc3f26ed04ed8918a5d52650a7daa" parent="f4000ba2f6aa41a6bcdef22f5f5f5885"/>
+      </channel>
+      <channel name="Track 3" id="2ff9878f4c1c40f5a12d80ef1687eadf" parent="74deeb8c57a943078eb31ceab658611f"
+               track="77d66f440e7f42aca8831e48bed91b75" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="181f110c56f84ef9b9fd66e02d24c02c" parent="2ff9878f4c1c40f5a12d80ef1687eadf">
+          <terminalBay name="inputs" id="0ed2c7f712f54060a7d05d485574d931" parent="181f110c56f84ef9b9fd66e02d24c02c">
+            <terminal name="MIDI" id="a849b13781b446df8b05600ce1c34e1d" parent="0ed2c7f712f54060a7d05d485574d931"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="09f0dab5860f4fa58a9b4ee4f3fe9d83" parent="181f110c56f84ef9b9fd66e02d24c02c">
+            <terminal name="MIDI" id="daadf401176b4945b0934bfc8263bb25" parent="09f0dab5860f4fa58a9b4ee4f3fe9d83"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="e43666ab47f34b68b3dcf3ed53698411" parent="2ff9878f4c1c40f5a12d80ef1687eadf">
+          <terminalBay name="inputs" id="c23c0defe45448aa9e5fe05ca0768547" parent="e43666ab47f34b68b3dcf3ed53698411">
+            <terminal name="Main" id="2e603951eb8843c0af8be79f1054fa37" parent="c23c0defe45448aa9e5fe05ca0768547"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="5a63fc2c7c3c4be9bdcafac6ab2a2e4c" parent="e43666ab47f34b68b3dcf3ed53698411">
+            <terminal name="Main" id="6710a6895d8d419697b9846fdd2e2d8d" parent="5a63fc2c7c3c4be9bdcafac6ab2a2e4c"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="47bf082b1f4a4d59be79fdc63bd06b66" parent="2ff9878f4c1c40f5a12d80ef1687eadf"/>
+      </channel>
+      <channel name="Track 4" id="f4a4b8242e7847ee85471a165323347b" parent="74deeb8c57a943078eb31ceab658611f"
+               track="ff601c91ef62426f973083631eabdad0" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="bf5bca12271f4105b395061543c785d4" parent="f4a4b8242e7847ee85471a165323347b">
+          <terminalBay name="inputs" id="8cf3180e01a04e2685fdb3f88c8290c9" parent="bf5bca12271f4105b395061543c785d4">
+            <terminal name="MIDI" id="c4b21fc364234a76bbf538892fe0c479" parent="8cf3180e01a04e2685fdb3f88c8290c9"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="e2929abcc59c4b51a96f152ad1acf62e" parent="bf5bca12271f4105b395061543c785d4">
+            <terminal name="MIDI" id="9af60c20a7d34a4f93653e3b7325ccd6" parent="e2929abcc59c4b51a96f152ad1acf62e"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="5aea215dedb9431ba3fd50d33dc4bb02" parent="f4a4b8242e7847ee85471a165323347b">
+          <terminalBay name="inputs" id="dd944ffcfd2f45a6bcbe5c1ec153b19c" parent="5aea215dedb9431ba3fd50d33dc4bb02">
+            <terminal name="Main" id="279f55af0f6649adb908424be33911be" parent="dd944ffcfd2f45a6bcbe5c1ec153b19c"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="429e3f6678f9451b82f8098c83b987cb" parent="5aea215dedb9431ba3fd50d33dc4bb02">
+            <terminal name="Main" id="d31eb1e57130428bbedaa2da6bfbbdcf" parent="429e3f6678f9451b82f8098c83b987cb"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="ebce37ab7c884a22a606666557b0a127" parent="f4a4b8242e7847ee85471a165323347b"/>
+      </channel>
+      <channel name="Track 5" id="7d876e35eac44c459f342b2c78b80429" parent="74deeb8c57a943078eb31ceab658611f"
+               track="a364c97fd3184ce780ba1c91e4a821f6" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="be3e398f96d84c77a1b6bffdf443f551" parent="7d876e35eac44c459f342b2c78b80429">
+          <terminalBay name="inputs" id="d0a42df987204c7fa0a5d0075a0aae00" parent="be3e398f96d84c77a1b6bffdf443f551">
+            <terminal name="MIDI" id="0d22aa445523439f9000b55d475c1fd9" parent="d0a42df987204c7fa0a5d0075a0aae00"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="0c2da13063914563903c33507588fac3" parent="be3e398f96d84c77a1b6bffdf443f551">
+            <terminal name="MIDI" id="9625c788cab1473ab3831a8eb171b97c" parent="0c2da13063914563903c33507588fac3"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="c7a5da6207f04377aae29b549dcf7be1" parent="7d876e35eac44c459f342b2c78b80429">
+          <terminalBay name="inputs" id="7344328d67e041ecb37d2b3df1c44e7a" parent="c7a5da6207f04377aae29b549dcf7be1">
+            <terminal name="Main" id="0380b5ab49e449669795a2c4dce73adb" parent="7344328d67e041ecb37d2b3df1c44e7a"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="fb5c958378ff4b0ca0ea0242fc353a4e" parent="c7a5da6207f04377aae29b549dcf7be1">
+            <terminal name="Main" id="d36838181e064c3f96258607139d9595" parent="fb5c958378ff4b0ca0ea0242fc353a4e"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="6a579e541dd5420189b614915c20cf4e" parent="7d876e35eac44c459f342b2c78b80429"/>
+      </channel>
+      <channel name="Track 6" id="af3b1f9a8fa74705afe345241b68f605" parent="74deeb8c57a943078eb31ceab658611f"
+               track="8914c6afc8df4b479346a2fec380bbf3" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="1adcf5a1515645a4b62ca77f9a14d9eb" parent="af3b1f9a8fa74705afe345241b68f605">
+          <terminalBay name="inputs" id="6d630b39c9a149788d0117225571744a" parent="1adcf5a1515645a4b62ca77f9a14d9eb">
+            <terminal name="MIDI" id="d91e956650a74ada80d39f916ef7002b" parent="6d630b39c9a149788d0117225571744a"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="cae5c1052766426984d2816b7b620154" parent="1adcf5a1515645a4b62ca77f9a14d9eb">
+            <terminal name="MIDI" id="ff333d45502540adb9bed40a7aa63fe2" parent="cae5c1052766426984d2816b7b620154"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="0180a47e40f64229a5b5905417782880" parent="af3b1f9a8fa74705afe345241b68f605">
+          <terminalBay name="inputs" id="6cc436d1cd124eedb80ead76018adc6b" parent="0180a47e40f64229a5b5905417782880">
+            <terminal name="Main" id="75117db78e3a4c1597d66f49ac5a2b34" parent="6cc436d1cd124eedb80ead76018adc6b"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="51d4af066fd74d04b7a82207feb78f53" parent="0180a47e40f64229a5b5905417782880">
+            <terminal name="Main" id="63f73a51bd7a447a84149f84b78ad9e9" parent="51d4af066fd74d04b7a82207feb78f53"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="e151cede99a1401c95619a98efc86bc5" parent="af3b1f9a8fa74705afe345241b68f605"/>
+      </channel>
+      <channel name="Track 7" id="1c2b6930bd324f3eb5d21aad00f710de" parent="74deeb8c57a943078eb31ceab658611f"
+               track="8db1c39328dc49f7b438f169c3cafb01" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="43549f6508704fc9ad3f2d0df8e3b99d" parent="1c2b6930bd324f3eb5d21aad00f710de">
+          <terminalBay name="inputs" id="364e4458b4f74ac29d4c85f7265d03e4" parent="43549f6508704fc9ad3f2d0df8e3b99d">
+            <terminal name="MIDI" id="cf097527f15a465299e3017fbd454f05" parent="364e4458b4f74ac29d4c85f7265d03e4"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="a6301c7ee71541bd892c985c5f0f8205" parent="43549f6508704fc9ad3f2d0df8e3b99d">
+            <terminal name="MIDI" id="736f36bd7cd245d0aa665a6f080323a2" parent="a6301c7ee71541bd892c985c5f0f8205"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="8ff8c83cc04c4f44be9956efdd821f7f" parent="1c2b6930bd324f3eb5d21aad00f710de">
+          <terminalBay name="inputs" id="7f5ae64cd95142cb967a7189bdad5702" parent="8ff8c83cc04c4f44be9956efdd821f7f">
+            <terminal name="Main" id="80f6e10688ca498f99bd283a529304ac" parent="7f5ae64cd95142cb967a7189bdad5702"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="e6c38ccdd5194ef190aecb01acf60966" parent="8ff8c83cc04c4f44be9956efdd821f7f">
+            <terminal name="Main" id="3822c528e1c643498bb99ceac3f5a406" parent="e6c38ccdd5194ef190aecb01acf60966"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="dbc0337f29544e17990d1a36e2b37355" parent="1c2b6930bd324f3eb5d21aad00f710de"/>
+      </channel>
+      <channel name="Track 8" id="c6d6aaa2bf664ccca1919dba427c2777" parent="74deeb8c57a943078eb31ceab658611f"
+               track="47b56a300cea4baaa6ca59b798b5ba76" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="7dc5de33aee24a8d8029342717e7d36e" parent="c6d6aaa2bf664ccca1919dba427c2777">
+          <terminalBay name="inputs" id="7b4b4022a3834e5e97e1d82043a8960b" parent="7dc5de33aee24a8d8029342717e7d36e">
+            <terminal name="MIDI" id="be6e41678c5c48d8b690eb9627ce7b87" parent="7b4b4022a3834e5e97e1d82043a8960b"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="4ea55ad1b0c848c3bf1ebd5c930f0533" parent="7dc5de33aee24a8d8029342717e7d36e">
+            <terminal name="MIDI" id="7fd1b4f92043420b8fe21a9a5ceee1ab" parent="4ea55ad1b0c848c3bf1ebd5c930f0533"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="263ffa22a60a413e9a9200ebb57f7638" parent="c6d6aaa2bf664ccca1919dba427c2777">
+          <terminalBay name="inputs" id="477dabe023a24afdada4274477bf0e28" parent="263ffa22a60a413e9a9200ebb57f7638">
+            <terminal name="Main" id="5d7785f22c6c4c979c305f64acb26c61" parent="477dabe023a24afdada4274477bf0e28"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="9bdfb6675382492ea46efdb392c25571" parent="263ffa22a60a413e9a9200ebb57f7638">
+            <terminal name="Main" id="36707f8ccd374125a6215e5bb35ea06e" parent="9bdfb6675382492ea46efdb392c25571"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="17712bef7256489b82a8a99246c76511" parent="c6d6aaa2bf664ccca1919dba427c2777"/>
+      </channel>
+      <channel name="Track 9" id="39381cd933724253b70b43d2f6a6c1a5" parent="74deeb8c57a943078eb31ceab658611f"
+               track="b716056b2b934841993c3fbae417136b" cableType="1" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="5132d8a991ed42c881d9bde12c3cb958" parent="39381cd933724253b70b43d2f6a6c1a5">
+          <terminalBay name="inputs" id="58ec71439c234cafbd2a5aa5dc28781c" parent="5132d8a991ed42c881d9bde12c3cb958">
+            <terminal name="MIDI" id="8571d2b2d9c048a79975e98ba2638ccc" parent="58ec71439c234cafbd2a5aa5dc28781c"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="0ef3528ff0e2432b8b9d7394f79f6360" parent="5132d8a991ed42c881d9bde12c3cb958">
+            <terminal name="MIDI" id="66fc7c945a754c85a2874f9a427e2a47" parent="0ef3528ff0e2432b8b9d7394f79f6360"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="6bbde085b32c49ba9428ca3b481a49f5" parent="39381cd933724253b70b43d2f6a6c1a5">
+          <terminalBay name="inputs" id="834cd3a71ca74a0d849a4a7a31cbf43c" parent="6bbde085b32c49ba9428ca3b481a49f5">
+            <terminal name="Main" id="de4a16a6290e454a82d0c83285bb723d" parent="834cd3a71ca74a0d849a4a7a31cbf43c"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="6227d4e0a58748c89f52946238db0170" parent="6bbde085b32c49ba9428ca3b481a49f5">
+            <terminal name="Main" id="b3255d540dd9468fb0efc052f9a39a9d" parent="6227d4e0a58748c89f52946238db0170"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="e78f3d5249554accaed836f174a0f4bd" parent="39381cd933724253b70b43d2f6a6c1a5"/>
+      </channel>
+      <channel name="Track 10" id="9543925079bc47d7a7a74d72dbaf861e" parent="74deeb8c57a943078eb31ceab658611f"
+               track="c5f7eafcda4e473289c0cfd5ee551cf1" cableType="3" volume="0.71428573131561279297"
+               pan="0.5">
+        <array name="midi" id="5b7bb152b12a4e16a8bb755595cd6281" parent="9543925079bc47d7a7a74d72dbaf861e">
+          <terminalBay name="inputs" id="64979319e5124c3a8ef7bacc3827622c" parent="5b7bb152b12a4e16a8bb755595cd6281">
+            <terminal name="MIDI" id="06a780b450004d68a20267e1907365af" parent="64979319e5124c3a8ef7bacc3827622c"
+                      terminalNum="0" terminalType="1" isInput="1" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="3d61f68a7e454dbd9e29f59e88a27a80" parent="5b7bb152b12a4e16a8bb755595cd6281">
+            <terminal name="MIDI" id="4b4802ab487a4fc49406b4fba960aac5" parent="3d61f68a7e454dbd9e29f59e88a27a80"
+                      terminalNum="0" terminalType="1" isInput="0" hwIoIx="-1">
+              <pin index="4096"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="audio" id="04c9ca5ddaad4674823d696f0a2c2f90" parent="9543925079bc47d7a7a74d72dbaf861e">
+          <terminalBay name="inputs" id="b974aba293544684a8a061c560a76482" parent="04c9ca5ddaad4674823d696f0a2c2f90">
+            <terminal name="Main" id="ca15c17a339c48daa756cc5d2ec122cb" parent="b974aba293544684a8a061c560a76482"
+                      terminalNum="0" terminalType="0" isInput="1" hwIoIx="-1">
+              <pin index="0"/>
+            </terminal>
+          </terminalBay>
+          <terminalBay name="outputs" id="899b0802a52e42c8a5709cc04df7860a" parent="04c9ca5ddaad4674823d696f0a2c2f90">
+            <terminal name="Main" id="07f816f02fd84e01a1a3afe250622db2" parent="899b0802a52e42c8a5709cc04df7860a"
+                      terminalNum="0" terminalType="0" isInput="0" hwIoIx="-1">
+              <pin index="0"/>
+              <pin index="1"/>
+            </terminal>
+          </terminalBay>
+        </array>
+        <array name="inserts" id="53e7e691a3f745c6bda29f45916dbb27" parent="9543925079bc47d7a7a74d72dbaf861e"/>
+      </channel>
+    </array>
+    <array name="cables" id="dcf9c77257dc455bb4f429319118c263" parent="05bfb40ee29b4205af5903a24fe885cd">
+      <cable name="_ALK_New Song_mixer_channels_Metronome_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="40a2073805da438fa16d862ea38eaf26" parent="dcf9c77257dc455bb4f429319118c263"
+             source="1eff3001ae8549ca9b73a7a4248e5917" missingSourceTerminalName=""
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName="Master"
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Audio Track_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="f9d304e7457748c489193254e101cedc" parent="dcf9c77257dc455bb4f429319118c263"
+             source="b921d036f8b04df38954aa9fb83258c4" missingSourceTerminalName=""
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName="Master"
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Test Note_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="ec78ea1766ba4e848c54a9894966a2fc" parent="dcf9c77257dc455bb4f429319118c263"
+             source="fa57c7a65bd84417831069d10f3ad2d5" missingSourceTerminalName=""
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName="Master"
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_Patchbay_midi_inputs_All MIDI Inputs -&gt; _ALK_New Song_mixer_channels_Test Note_midi_inputs_MIDI"
+             id="45893831b2e64ce3808dfee8291e11a2" parent="dcf9c77257dc455bb4f429319118c263"
+             source="5283f0814e260d7c0000000000000000" missingSourceTerminalName="All MIDI Inputs"
+             destination="d17698fbe9af46c2b8bedbe8c81ccd07" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_Patchbay_midi_inputs_All MIDI Inputs -&gt; _ALK_New Song_mixer_channels_MIDI Track_midi_inputs_MIDI"
+             id="3811880fb12847fdb6f27298a1f2d688" parent="dcf9c77257dc455bb4f429319118c263"
+             source="5283f0814e260d7c0000000000000000" missingSourceTerminalName="All MIDI Inputs"
+             destination="7df6f4169b674b0096540658513a2bc8" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master 2"
+             id="11ac29b80140466ab2af8c0566d548ad" parent="dcf9c77257dc455bb4f429319118c263"
+             source="f1596e31a77542a48629d224b8899613" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 2_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="5d0bf88c5a82478ebdd876488c238d7f" parent="dcf9c77257dc455bb4f429319118c263"
+             source="765a210f748d48ed85e6aee9b1b92327" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 3_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="f8e3429873694c1bae838f226ddfa6cb" parent="dcf9c77257dc455bb4f429319118c263"
+             source="6710a6895d8d419697b9846fdd2e2d8d" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 4_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="a9ffb4d119444bbbb93332484720a769" parent="dcf9c77257dc455bb4f429319118c263"
+             source="d31eb1e57130428bbedaa2da6bfbbdcf" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 5_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="8c0f3fc962224f6cae005c015512bf66" parent="dcf9c77257dc455bb4f429319118c263"
+             source="d36838181e064c3f96258607139d9595" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 6_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="8ea56b261fb7439aaa4653461f2aedd1" parent="dcf9c77257dc455bb4f429319118c263"
+             source="63f73a51bd7a447a84149f84b78ad9e9" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 7_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="8b56984a324f47ecb45b5b6e1d62d1e1" parent="dcf9c77257dc455bb4f429319118c263"
+             source="3822c528e1c643498bb99ceac3f5a406" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 8_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="8b12651ed307448a86c89f35d1cc671a" parent="dcf9c77257dc455bb4f429319118c263"
+             source="36707f8ccd374125a6215e5bb35ea06e" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+      <cable name="_ALK_New Song_mixer_channels_Track 9_audio_outputs_Main -&gt; _ALK_Patchbay_audio_outputs_Master"
+             id="bacb39ca2deb4352a7ac0ba57ec137f2" parent="dcf9c77257dc455bb4f429319118c263"
+             source="b3255d540dd9468fb0efc052f9a39a9d" missingSourceTerminalName="Main"
+             destination="b94b59a64a2e95000000000000000000" missingDestTerminalName=""
+             volume="0.71428573131561279297"/>
+    </array>
+  </mixer>
+  <timeSignature numerator="4" denominator="4"/>
+</document>
